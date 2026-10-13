@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #2f7d5f;
+  --color-brand-dark: #256650;
+  --color-brand-ink: #123a2a;
+  --font-jakarta: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer components {
+    @keyframes marqueeScroll {
+        0% {
+            transform: translateX(0%);
+        }
+        100% {
+            transform: translateX(-50%);
+        }
+    }
+}
