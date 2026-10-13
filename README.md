@@ -1,6 +1,6 @@
 # ShopKart
 
-ShopKart is a full-stack e-commerce app I built for the Fullstack Engineering Lab at IIT Madras. You can sign up, browse a catalogue of 200+ products, save favourites to a wishlist, fill a cart, and pay for it through Razorpay (test mode). Your past orders are saved under **My Orders**.
+ShopKart is a full-stack e-commerce app I built as my Fullstack Engineering Lab project. You can sign up, browse a catalogue of 200+ products, save favourites to a wishlist, fill a cart, and pay for it through Razorpay (test mode). Your past orders are saved under **My Orders**.
 
 It started as a set of weekly labs (auth, product catalogue, wishlist, cart, checkout and orders), and this repo is where all of them come together.
 
@@ -169,6 +169,4 @@ No secrets are committed to this repo. `.env` files are ignored by git, and `bac
 
 ---
 
-Built by Aryan, IIT Madras.
-#   S h o p i f y  
- 
+Built by Mahi.
