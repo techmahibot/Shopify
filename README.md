@@ -4,7 +4,7 @@ ShopKart is a full-stack e-commerce app I built as my Fullstack Engineering Lab 
 
 It started as a set of weekly labs (auth, product catalogue, wishlist, cart, checkout and orders), and this repo is where all of them come together.
 
-> **Live demo:** _shopify-delta-eight.vercel.app_
+> **Live demo:** _(https://shopify-delta-eight.vercel.app/)_
 > **Repo:** _(https://github.com/techmahibot/Shopify)_
 
 ## What you can do
